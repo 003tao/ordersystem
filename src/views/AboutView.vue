@@ -1,13 +1,13 @@
 <template>
-  <div class="home">
+  <div class="aboutview">
     <img alt="Vue logo" src="assets/logo.png" />
-    HomeView
+    AboutView
   </div>
 </template>
 
 <script>
 export default {
-  name: "HomeView",
+  name: "AboutView",
   components: {},
 };
 </script>
