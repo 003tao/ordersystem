@@ -1,6 +1,6 @@
 <template>
   <div>
-    <router-view/>   <!-- 占位  -->
+    <router-view/><!-- 占位  -->   
     <main-tab-bar/>
   </div>
 </template>
