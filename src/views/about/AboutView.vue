@@ -1,6 +1,6 @@
 <template>
   <div class="aboutview">
-    <img alt="Vue logo" src="assets/logo.png" />
+    <img alt="Vue logo" src="~assets/logo.png" />
     AboutView
   </div>
 </template>

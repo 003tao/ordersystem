@@ -1,16 +1,17 @@
 <template>
-  <di>
-    <tab-bar></tab-bar>
-  </di>
+  <div>
+    <router-view/>   <!-- 占位  -->
+    <main-tab-bar/>
+  </div>
 </template>
 
 <script>
-import TabBar from 'components/common/TabBar';
+import MainTabBar from 'components/content/MainTabBar.vue';
 
 export default {
   name:'App',
   components: {
-    TabBar
+    MainTabBar,
 
   }
 }
